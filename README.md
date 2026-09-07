@@ -2,6 +2,10 @@
 
 In this activity, you will practice writing basic Javascript syntax to clarify your understanding of Javascript is written and how you can manipulate the DOM with it. The starter code is in a github repo that you will clone to your computer (or fork and clone). Follow the hints in the code comments.
 
+### Syntax Notes
+
+- use camelCase instead of snake_case
+
 ### Answer Key
 
 - Review the "spoilers" branch for examples of how these could be accomplished (note that in javascript there are many ways to do the same thing, the examples provided reflect secure and modern patterns.)

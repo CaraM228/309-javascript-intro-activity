@@ -6,6 +6,7 @@
     <title>309 Javascript Warmup</title>
     <link rel="stylesheet" href="./main.css" />
     <!--link the javascript file here. hint: look up defer and type="module"-->
+    <script src="./script.js" defer></script>
   </head>
   <body>
     <main>
@@ -28,10 +29,10 @@
         <header>
           <h2>User Information Activities</h2>
         </header>
-        <div id="user-card">
+        <div id="user-card" class="card">
           <h3>User Name: <span id="user-name">NOBODY IS LOGGED IN</span></h3>
           <!-- apply the pattern in user name to render the email here: -->
-          <p>Email: <span></span></p>
+          <p>Email: <span id="user-email"></span></p>
         </div>
         <button id="toggle-user-btn">Toggle User Login</button>
       </section>
