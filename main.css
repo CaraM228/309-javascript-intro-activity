@@ -1,0 +1,7 @@
+.user-not-logged-in {
+  background-color: indianred;
+}
+
+.user-logged-in {
+  background-color: lightseagreen;
+}
